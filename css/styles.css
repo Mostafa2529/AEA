@@ -75,9 +75,12 @@ p {
   color: #EAF6F6;
 }
 
+
+
 .btn {
+  display: block;
   position: relative;
-  top: 50px;
+  margin: 30px 30%;
   background: #66BFBF;
   background-image: -webkit-linear-gradient(top, #66BFBF, #2980b9);
   background-image: -moz-linear-gradient(top, #66BFBF, #2980b9);
@@ -99,3 +102,10 @@ p {
   background: #3cb0fd;
   text-decoration: none;
 }
+
+/* .Facebook {
+  position: absolute;
+  margin: auto auto;
+  left: 40%;
+  right: 40%;
+} */
