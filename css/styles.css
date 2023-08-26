@@ -12,7 +12,7 @@ h1 {
   padding-bottom: 10px;
 }
 h2 {
-  color: #66BFBF;
+  color: #1B2957;
   font-family: 'Montserrat', sans-serif;
   font-size: 2.5rem;
   font-weight: normal;
@@ -36,11 +36,21 @@ p {
   line-height: 2;
 }
 
+.logo {
+  height: 400px;
+}
+
 .top-container {
   position: relative;
   background-color: #d3e4ed;
   text-align: center;
-  padding-top: 10%;
+  padding: 5% 10% 10% 5%;
+}
+
+.headline {
+  line-height: 1.6;
+  width: 700px;
+  margin: auto auto;
 }
 
 .middle-container {
